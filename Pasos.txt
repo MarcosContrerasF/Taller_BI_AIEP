@@ -1,0 +1,2 @@
+Instalar GIT
+Configurar cuenta en GitHub
