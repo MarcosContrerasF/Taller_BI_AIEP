@@ -6,3 +6,6 @@ Configurar cuenta en GitHub
 =======
 Instalar GIT
 >>>>>>> ccaa97cc5845cffed1e41025b0a61e904c3bfa1b
+-------------------------
+
+No es necesario escribir siempre ADD . se puede con git commit -am ""
