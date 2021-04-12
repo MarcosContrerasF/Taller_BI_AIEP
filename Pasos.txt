@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+Nuevo comentario en archivo
+
 Instalar GIT
 Configurar cuenta en GitHub
 =======
